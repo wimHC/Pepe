@@ -1,0 +1,132 @@
+Environment variables:
+  - =C:=C:\Users\mrwim\Desktop\CajaRegistradora\build
+  - ALLUSERSPROFILE=C:\ProgramData
+  - APPDATA=C:\Users\mrwim\AppData\Roaming
+  - COMPUTERNAME=SOPAIPILLA
+  - ComSpec=C:\WINDOWS\system32\cmd.exe
+  - CommonProgramFiles=C:\Program Files\Common Files
+  - CommonProgramFiles(x86)=C:\Program Files (x86)\Common Files
+  - CommonProgramW6432=C:\Program Files\Common Files
+  - ERROR_CODE=0
+  - HOMEDRIVE=C:
+  - HOMEPATH=\Users\mrwim
+  - JAVA_EXEC="C:\sonar-scanner\bin\..\jre\bin\java.exe"
+  - JAVA_HOME=C:\sonar-scanner\bin\..\jre
+  - LOCALAPPDATA=C:\Users\mrwim\AppData\Local
+  - LOGONSERVER=\\SOPAIPILLA
+  - NUMBER_OF_PROCESSORS=4
+  - OS=Windows_NT
+  - OneDrive=C:\Users\mrwim\OneDrive
+  - PATHEXT=.COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC;.CPL
+  - PROCESSOR_ARCHITECTURE=AMD64
+  - PROCESSOR_IDENTIFIER=Intel64 Family 6 Model 94 Stepping 3, GenuineIntel
+  - PROCESSOR_LEVEL=6
+  - PROCESSOR_REVISION=5e03
+  - PROJECT_HOME=C:\Users\mrwim\Desktop\CajaRegistradora\build
+  - PROMPT=$P$G
+  - PSModulePath=D:\Documentos\WindowsPowerShell\Modules;C:\Program Files\WindowsPowerShell\Modules;C:\WINDOWS\system32\WindowsPowerShell\v1.0\Modules
+  - PUBLIC=C:\Users\Public
+  - Path=C:\ProgramData\Oracle\Java\javapath;C:\Program Files (x86)\Intel\iCLS Client\;C:\Program Files\Intel\iCLS Client\;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\IPT;C:\Program Files\Intel\Intel(R) Management Engine Components\IPT;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\Program Files\Intel\WiFi\bin\;C:\Program Files\Common Files\Intel\WirelessCommon\;C:\Program Files\MySQL\MySQL Utilities 1.6\;C:\Program Files (x86)\LyX 2.2\Perl\bin;C:\sonar-scanner\bin;C:\Users\mrwim\AppData\Local\Microsoft\WindowsApps;C:\Users\mrwim\AppData\Local\Programs\MiKTeX 2.9\miktex\bin\
+  - ProgramData=C:\ProgramData
+  - ProgramFiles=C:\Program Files
+  - ProgramFiles(x86)=C:\Program Files (x86)
+  - ProgramW6432=C:\Program Files
+  - SONAR_RUNNER_HOME=C:\sonar-scanner
+  - SONAR_SCANNER_HOME=C:\sonar-scanner\bin\..
+  - SystemDrive=C:
+  - SystemRoot=C:\WINDOWS
+  - TEMP=C:\Users\mrwim\AppData\Local\Temp
+  - TMP=C:\Users\mrwim\AppData\Local\Temp
+  - USERDOMAIN=SOPAIPILLA
+  - USERDOMAIN_ROAMINGPROFILE=SOPAIPILLA
+  - USERNAME=mrwim
+  - USERPROFILE=C:\Users\mrwim
+  - scriptdir=C:\sonar-scanner\bin
+  - use_embedded_jre=true
+  - windir=C:\WINDOWS
+System properties:
+  - awt.toolkit=sun.awt.windows.WToolkit
+  - file.encoding=Cp1252
+  - file.encoding.pkg=sun.io
+  - file.separator=\
+  - java.awt.graphicsenv=sun.awt.Win32GraphicsEnvironment
+  - java.awt.headless=true
+  - java.awt.printerjob=sun.awt.windows.WPrinterJob
+  - java.class.path=C:\sonar-scanner\bin\..\lib\sonar-scanner-cli-3.0.3.778.jar
+  - java.class.version=52.0
+  - java.endorsed.dirs=C:\sonar-scanner\jre\lib\endorsed
+  - java.ext.dirs=C:\sonar-scanner\jre\lib\ext;C:\WINDOWS\Sun\Java\lib\ext
+  - java.home=C:\sonar-scanner\jre
+  - java.io.tmpdir=C:\Users\mrwim\AppData\Local\Temp\
+  - java.library.path=C:\sonar-scanner\jre\bin;C:\WINDOWS\Sun\Java\bin;C:\WINDOWS\system32;C:\WINDOWS;C:\ProgramData\Oracle\Java\javapath;C:\Program Files (x86)\Intel\iCLS Client\;C:\Program Files\Intel\iCLS Client\;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\IPT;C:\Program Files\Intel\Intel(R) Management Engine Components\IPT;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\Program Files\Intel\WiFi\bin\;C:\Program Files\Common Files\Intel\WirelessCommon\;C:\Program Files\MySQL\MySQL Utilities 1.6\;C:\Program Files (x86)\LyX 2.2\Perl\bin;C:\sonar-scanner\bin;C:\Users\mrwim\AppData\Local\Microsoft\WindowsApps;C:\Users\mrwim\AppData\Local\Programs\MiKTeX 2.9\miktex\bin\;.
+  - java.runtime.name=Java(TM) SE Runtime Environment
+  - java.runtime.version=1.8.0_121-b13
+  - java.specification.name=Java Platform API Specification
+  - java.specification.vendor=Oracle Corporation
+  - java.specification.version=1.8
+  - java.vendor=Oracle Corporation
+  - java.vendor.url=http://java.oracle.com/
+  - java.vendor.url.bug=http://bugreport.sun.com/bugreport/
+  - java.version=1.8.0_121
+  - java.vm.info=mixed mode
+  - java.vm.name=Java HotSpot(TM) 64-Bit Server VM
+  - java.vm.specification.name=Java Virtual Machine Specification
+  - java.vm.specification.vendor=Oracle Corporation
+  - java.vm.specification.version=1.8
+  - java.vm.vendor=Oracle Corporation
+  - java.vm.version=25.121-b13
+  - line.separator=
+
+  - os.arch=amd64
+  - os.name=Windows 10
+  - os.version=10.0
+  - path.separator=;
+  - project.home=C:\Users\mrwim\Desktop\CajaRegistradora\build
+  - scanner.home=C:\sonar-scanner\bin\..
+  - sun.arch.data.model=64
+  - sun.boot.class.path=C:\sonar-scanner\jre\lib\resources.jar;C:\sonar-scanner\jre\lib\rt.jar;C:\sonar-scanner\jre\lib\sunrsasign.jar;C:\sonar-scanner\jre\lib\jsse.jar;C:\sonar-scanner\jre\lib\jce.jar;C:\sonar-scanner\jre\lib\charsets.jar;C:\sonar-scanner\jre\lib\jfr.jar;C:\sonar-scanner\jre\classes
+  - sun.boot.library.path=C:\sonar-scanner\jre\bin
+  - sun.cpu.endian=little
+  - sun.cpu.isalist=amd64
+  - sun.desktop=windows
+  - sun.io.unicode.encoding=UnicodeLittle
+  - sun.java.command=org.sonarsource.scanner.cli.Main -X
+  - sun.java.launcher=SUN_STANDARD
+  - sun.jnu.encoding=Cp1252
+  - sun.management.compiler=HotSpot 64-Bit Tiered Compilers
+  - sun.os.patch.level=
+  - sun.stderr.encoding=cp850
+  - sun.stdout.encoding=cp850
+  - user.country=419
+  - user.dir=C:\Users\mrwim\Desktop\CajaRegistradora\build
+  - user.home=C:\Users\mrwim
+  - user.language=es
+  - user.name=mrwim
+  - user.script=
+  - user.timezone=America/Santiago
+  - user.variant=
+SonarQube plugins:
+  - C# 5.10.1.1411 (csharp)
+  - Findbugs 3.6.0 (findbugs)
+  - SonarPython 1.8.0.1496 (python)
+  - SonarJava 4.14.0.11784 (java)
+  - Flex 2.3 (flex)
+  - Git 1.2 (scmgit)
+  - SonarXML 1.4.3.1027 (xml)
+  - SonarPHP 2.10.0.2087 (php)
+  - SVN 1.5.0.715 (scmsvn)
+  - SonarJS 3.1.1.5128 (javascript)
+Global properties:
+  - sonar.builtInQualityProfiles.disableNotificationOnUpdate=false
+  - sonar.core.id=AV8WHPaBeMnUGJqnNDgc
+  - sonar.core.startTime=2017-10-13T18:58:24-0300
+Settings for module: my:project
+  - sonar.host.url=http://localhost:9000
+  - sonar.projectBaseDir=C:\Users\mrwim\Desktop\CajaRegistradora\build
+  - sonar.projectKey=my:project
+  - sonar.projectName=My project
+  - sonar.projectVersion=1.0
+  - sonar.sourceEncoding=windows-1252
+  - sonar.sources=.
+  - sonar.verbose=true
+  - sonar.working.directory=C:\Users\mrwim\Desktop\CajaRegistradora\build\.scannerwork
